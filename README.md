@@ -4,7 +4,8 @@ This repository contains a project for classifying images in the PatchCamelyon (
 
 ## Dataset
 
-![Alt Text][https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaperswithcode.com%2Fdataset%2Fpcam&psig=AOvVaw2470kwegNaKT9QwOmqnfAh&ust=1731510345572000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCizuqI14kDFQAAAAAdAAAAABAE]
+![PCAM Dataset Image](https://production-media.paperswithcode.com/datasets/pcam_Dj5Hqa9.jpg "PCAM Dataset Image")
+
 
 The **PatchCamelyon (PCAM)** dataset consists of small image patches extracted from histopathology slides. Each image patch is labeled as either containing metastatic tissue (positive) or not (negative). The dataset is commonly used for research in medical image classification.
 
