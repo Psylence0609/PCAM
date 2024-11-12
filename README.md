@@ -23,7 +23,7 @@ The dataset can be downloaded from [PatchCamelyon on Kaggle](https://www.kaggle.
 
 - Python 3.8 or later
 - Create a conda environment from the *environment_backup.yml* file.  
-<pre> ```bash conda env create -f environment_backup.yml -n <new_env_name> ``` </pre>
+<pre> conda env create -f environment_backup.yml -n <new_env_name> </pre>
 
 ## Demo
 
