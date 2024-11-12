@@ -1,0 +1,6 @@
+checkpoints/
+PCAM_Data/
+lightning_logs/
+logs/
+*.zip
+Data/
