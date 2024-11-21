@@ -15,9 +15,7 @@ The **PatchCamelyon (PCAM)** dataset consists of small image patches extracted f
   - `0`: No metastatic tissue (Negative)
   - `1`: Contains metastatic tissue (Positive)
 
-The dataset can be downloaded from [PatchCamelyon on Kaggle](https://www.kaggle.com/datasets).
-
-## Requirements
+The dataset can be accessed from [PatchCamelyon on Kaggle](https://www.kaggle.com/datasets).
 
 ## Requirements
 
@@ -29,3 +27,4 @@ The dataset can be downloaded from [PatchCamelyon on Kaggle](https://www.kaggle.
 
  - Run the Demo.ipynb file
  - Set the *filename_without_extension* variable to the Model name like "Model*-Variant*" to load a model
+ - Download the cleansed data from: . Paste the data in current foler where *Demo.ipynb* is present. The path of the data should be *Data/x-test.npy*.

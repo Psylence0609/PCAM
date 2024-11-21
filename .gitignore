@@ -4,4 +4,3 @@ lightning_logs/
 logs/
 *.zip
 Data/
-*.png
