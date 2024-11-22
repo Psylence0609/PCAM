@@ -26,7 +26,7 @@ The dataset can be accessed from [PatchCamelyon on Kaggle](https://www.kaggle.co
 ## Demo
 
  - Run the Demo.ipynb file
- - Set the *filename_without_extension* variable to the Model name like "Model*-Variant*" to load a model
+ - Set the *filename_without_extension* variable to the Model name like "Model*-Variant*" to load a model. The path of the models should be *Best_Model/Model1-Variant1.pth* and so on.
  - Download the cleansed data from: [Google Drive](https://drive.google.com/drive/folders/1V8-hjLywXnVfvTd7pEhETXJS-CGsEWeL?usp=sharing). Paste the data in current foler where *Demo.ipynb* is present. The path of the data should be *Data/x_test.npy*.
  - We can also run the file in Google Collab. Ensure that the data and models are placed in proper folders.
  
